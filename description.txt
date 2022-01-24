@@ -7,3 +7,7 @@ git add <file> agregamos los archivos seleccionados al INDEX para realizarles se
 git blame <file> identifica a los autores de las modificaciones de un archivo en particular, siempre y cuando hayan sido confirmadas.
 git rm --cached <file> quita del INDEX los cambios almacenados de un archivo en particular, pero mantiene el mismo en el Working Directory
 git restore --staged <file> reestablece los cambios del INDEX de un archivo en particular, respecto de la ultima confirmacion.
+git add <file> agregamos los archivos seleccionados al INDEX para realizarles seguimiento.
+git blame <file> identifica a los autores de las modificaciones de un archivo en particular, siempre y cuando hayan sido confirmadas.
+git rm --cached <file> quita del INDEX los cambios almacenados de un archivo en particular, pero mantiene el mismo en el Working Directory
+git restore --staged <file> reestablece los cambios del INDEX de un archivo en particular, respecto de la ultima confirmacion.
